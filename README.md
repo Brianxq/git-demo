@@ -1,2 +1,2 @@
 # git-demo
-a small demo try to learn git
+a small demo to learn git
